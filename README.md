@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Iryna
 - 👀 I’m Frontend/ Full Stack developer
-- 💞️ I can speack either 4 languages
+- 💞️ I can speack  4 languages: English, Ukrainian, Russian and Chinese
