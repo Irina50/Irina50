@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Irina50
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning JavaScript
-- 💞️ I can speack either English or Chinese
-
-
+- 👋 Hi, my name is Iryna
+- 👀 I’m Frontend/ Full Stack developer
+- 💞️ I can speack either 4 languages
